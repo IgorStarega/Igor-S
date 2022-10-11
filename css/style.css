@@ -1,3 +1,20 @@
 body{
-    background: blue;
+    background: white;
+}
+h1{
+    font-weight: normal;
+}
+h2{
+    font-style: italic;
+    color: darkgrey;
+}
+div{
+    padding: 30px;
+}
+p{
+    font-weight: bold;
+    color: green;
+}
+ol{
+    border: solid 1px black;
 }
